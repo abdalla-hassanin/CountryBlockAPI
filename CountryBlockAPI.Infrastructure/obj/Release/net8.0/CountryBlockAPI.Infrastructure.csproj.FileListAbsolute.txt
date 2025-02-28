@@ -1,0 +1,15 @@
+D:\CountryBlockAPI\CountryBlockAPI.Infrastructure\bin\Release\net8.0\CountryBlockAPI.Infrastructure.deps.json
+D:\CountryBlockAPI\CountryBlockAPI.Infrastructure\bin\Release\net8.0\CountryBlockAPI.Infrastructure.dll
+D:\CountryBlockAPI\CountryBlockAPI.Infrastructure\bin\Release\net8.0\CountryBlockAPI.Infrastructure.pdb
+D:\CountryBlockAPI\CountryBlockAPI.Infrastructure\bin\Release\net8.0\CountryBlockAPI.Data.dll
+D:\CountryBlockAPI\CountryBlockAPI.Infrastructure\bin\Release\net8.0\CountryBlockAPI.Data.pdb
+D:\CountryBlockAPI\CountryBlockAPI.Infrastructure\obj\Release\net8.0\CountryBlockAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\CountryBlockAPI\CountryBlockAPI.Infrastructure\obj\Release\net8.0\CountryBlockAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CountryBlockAPI\CountryBlockAPI.Infrastructure\obj\Release\net8.0\CountryBlockAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\CountryBlockAPI\CountryBlockAPI.Infrastructure\obj\Release\net8.0\CountryBlockAPI.Infrastructure.AssemblyInfo.cs
+D:\CountryBlockAPI\CountryBlockAPI.Infrastructure\obj\Release\net8.0\CountryBlockAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CountryBlockAPI\CountryBlockAPI.Infrastructure\obj\Release\net8.0\CountryB.BB539EAE.Up2Date
+D:\CountryBlockAPI\CountryBlockAPI.Infrastructure\obj\Release\net8.0\CountryBlockAPI.Infrastructure.dll
+D:\CountryBlockAPI\CountryBlockAPI.Infrastructure\obj\Release\net8.0\refint\CountryBlockAPI.Infrastructure.dll
+D:\CountryBlockAPI\CountryBlockAPI.Infrastructure\obj\Release\net8.0\CountryBlockAPI.Infrastructure.pdb
+D:\CountryBlockAPI\CountryBlockAPI.Infrastructure\obj\Release\net8.0\ref\CountryBlockAPI.Infrastructure.dll

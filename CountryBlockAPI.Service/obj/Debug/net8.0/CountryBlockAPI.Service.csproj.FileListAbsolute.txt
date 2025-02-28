@@ -1,0 +1,17 @@
+D:\CountryBlockAPI\CountryBlockAPI.Service\bin\Debug\net8.0\CountryBlockAPI.Service.deps.json
+D:\CountryBlockAPI\CountryBlockAPI.Service\bin\Debug\net8.0\CountryBlockAPI.Service.dll
+D:\CountryBlockAPI\CountryBlockAPI.Service\bin\Debug\net8.0\CountryBlockAPI.Service.pdb
+D:\CountryBlockAPI\CountryBlockAPI.Service\bin\Debug\net8.0\CountryBlockAPI.Data.dll
+D:\CountryBlockAPI\CountryBlockAPI.Service\bin\Debug\net8.0\CountryBlockAPI.Infrastructure.dll
+D:\CountryBlockAPI\CountryBlockAPI.Service\bin\Debug\net8.0\CountryBlockAPI.Infrastructure.pdb
+D:\CountryBlockAPI\CountryBlockAPI.Service\bin\Debug\net8.0\CountryBlockAPI.Data.pdb
+D:\CountryBlockAPI\CountryBlockAPI.Service\obj\Debug\net8.0\CountryBlockAPI.Service.csproj.AssemblyReference.cache
+D:\CountryBlockAPI\CountryBlockAPI.Service\obj\Debug\net8.0\CountryBlockAPI.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\CountryBlockAPI\CountryBlockAPI.Service\obj\Debug\net8.0\CountryBlockAPI.Service.AssemblyInfoInputs.cache
+D:\CountryBlockAPI\CountryBlockAPI.Service\obj\Debug\net8.0\CountryBlockAPI.Service.AssemblyInfo.cs
+D:\CountryBlockAPI\CountryBlockAPI.Service\obj\Debug\net8.0\CountryBlockAPI.Service.csproj.CoreCompileInputs.cache
+D:\CountryBlockAPI\CountryBlockAPI.Service\obj\Debug\net8.0\CountryB.1741D5A6.Up2Date
+D:\CountryBlockAPI\CountryBlockAPI.Service\obj\Debug\net8.0\CountryBlockAPI.Service.dll
+D:\CountryBlockAPI\CountryBlockAPI.Service\obj\Debug\net8.0\refint\CountryBlockAPI.Service.dll
+D:\CountryBlockAPI\CountryBlockAPI.Service\obj\Debug\net8.0\CountryBlockAPI.Service.pdb
+D:\CountryBlockAPI\CountryBlockAPI.Service\obj\Debug\net8.0\ref\CountryBlockAPI.Service.dll

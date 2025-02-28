@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ib+y72sP6JVIYHKmwvBC0DaMFy6HIDEbEQKg6i+6Q6Q=",
+  "Source": "CountryBlockAPI.Api",
+  "BasePath": "_content/CountryBlockAPI.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

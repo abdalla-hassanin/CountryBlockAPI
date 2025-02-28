@@ -1,0 +1,11 @@
+D:\CountryBlockAPI\CountryBlockAPI.Data\obj\Debug\net8.0\CountryBlockAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\CountryBlockAPI\CountryBlockAPI.Data\obj\Debug\net8.0\CountryBlockAPI.Data.AssemblyInfoInputs.cache
+D:\CountryBlockAPI\CountryBlockAPI.Data\obj\Debug\net8.0\CountryBlockAPI.Data.AssemblyInfo.cs
+D:\CountryBlockAPI\CountryBlockAPI.Data\obj\Debug\net8.0\CountryBlockAPI.Data.csproj.CoreCompileInputs.cache
+D:\CountryBlockAPI\CountryBlockAPI.Data\bin\Debug\net8.0\CountryBlockAPI.Data.deps.json
+D:\CountryBlockAPI\CountryBlockAPI.Data\bin\Debug\net8.0\CountryBlockAPI.Data.dll
+D:\CountryBlockAPI\CountryBlockAPI.Data\bin\Debug\net8.0\CountryBlockAPI.Data.pdb
+D:\CountryBlockAPI\CountryBlockAPI.Data\obj\Debug\net8.0\CountryBlockAPI.Data.dll
+D:\CountryBlockAPI\CountryBlockAPI.Data\obj\Debug\net8.0\refint\CountryBlockAPI.Data.dll
+D:\CountryBlockAPI\CountryBlockAPI.Data\obj\Debug\net8.0\CountryBlockAPI.Data.pdb
+D:\CountryBlockAPI\CountryBlockAPI.Data\obj\Debug\net8.0\ref\CountryBlockAPI.Data.dll
